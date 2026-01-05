@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # inference
 LLM inference engine built on C++
-=======
+
 # C++ Inference Engine
 
 A simple C++ inference engine for running ONNX models, specifically designed for GPT-2 text generation.
@@ -163,4 +162,3 @@ MIT License
 - [ONNX Runtime](https://onnxruntime.ai/)
 - [nlohmann/json](https://github.com/nlohmann/json)
 - OpenAI's GPT-2 model
->>>>>>> dev
